@@ -3,7 +3,7 @@
 
 <div align="center">
   <img 
-    src="https://i.ibb.co.com/FbX46JKd/banner.png"
+    src="https://i.ibb.co.com/xqcMmtkb/Cover-Image-1.png"
     alt="Asma Akter Banner"
     width="100%"
   />
